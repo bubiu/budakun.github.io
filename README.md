@@ -1,2 +1,2 @@
 # budakun.github.io
-my test
+1 I want my blog own
